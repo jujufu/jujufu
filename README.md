@@ -2,7 +2,7 @@
 - 👀 I’m interested in electronics and programming
 - 🌱 I’m currently at school
 - 💞️ I’m looking to collaborate on electronics and programming
-- 📫 How to reach me juliuscoding@outlook.com
+- 📫 How to reach me juliuscoding@outlook.com also to learn something about electronics or programming
 
 <!---
 jujufu/jujufu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
